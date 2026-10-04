@@ -1,0 +1,1 @@
+{"src":"20260909_193938","start":9.05,"end":10.048,"filter":"scale=1440:2560:flags=lanczos","encoder":"-c:v h264_nvenc -preset p7 -tune hq -rc vbr -cq 17 -b:v 0 -profile:v high -pix_fmt yuv420p -g 12 -bf 0"}

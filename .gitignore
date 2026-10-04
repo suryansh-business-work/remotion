@@ -5,3 +5,11 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Raw footage, music and photos are too large for GitHub (keep logos/fonts/json)
+public/**/*.mp4
+public/**/*.[mM][oO][vV]
+public/**/*.mp3
+public/**/*.wav
+public/**/*.[jJ][pP][gG]
+public/**/*.jpeg
